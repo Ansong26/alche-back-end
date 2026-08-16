@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """
 This script fetches and displays the progress of an employee's TODO list
 using the JSONPlaceholder REST API.
